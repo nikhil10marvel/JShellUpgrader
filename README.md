@@ -7,8 +7,9 @@ Now place them in one folder.
 Find your self a nightly update website,  
   A good one is - [http://nik090jsh.000webhostapp.com/night]()
  
- Then just enter the url of you update website,  
+ Then just enter the url of your update website,  
  JShell install directory and you are set!
 
 ImportantNote:  
-            Each time when you make a nightly update Be sure note down system date and time as well as the version of the update.
+            Each time when you make a nightly update be sure note down system date and time as well as the version of the update.  
+            
